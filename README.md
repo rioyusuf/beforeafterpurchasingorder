@@ -1,6 +1,6 @@
 I'm sory, this repositories is under construction.
 
-==============================  For now, this repositories can't be used ==================================
+==================  For now, this repositories can't be used ==================
 
 # BAP
 Before / After Purhcasing Order Monitoring
